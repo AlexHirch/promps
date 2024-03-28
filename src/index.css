@@ -1,0 +1,13 @@
+/* #292f46
+#5a7f8f
+#7fbca1
+#b1e1a2 */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    background-color: #292f46;
+}

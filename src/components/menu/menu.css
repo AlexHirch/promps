@@ -1,0 +1,15 @@
+.menu{
+    width: 60%;
+    height: 100vh;
+    border: 1px solid #7fbca1;
+    background-color: #292f46;
+    position: absolute;
+    bottom: 0;
+    border-radius: 10px;
+    transition: all .3s;
+    right: -100%;
+}
+
+.menu.show{
+    right: 0;
+}
